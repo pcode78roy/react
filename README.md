@@ -22,6 +22,9 @@ You can use React as a `<script>` tag from a [CDN](https://reactjs.org/docs/cdn-
 
 You can find the React documentation [on the website](https://reactjs.org/).  
 
+You can also find the latest documentation [here](https://react.dev/). 
+This resource will also teach you how to develop a Tic-Tac-Toe game, [visit here](https://react.dev/learn/tutorial-tic-tac-toe). 
+
 Check out the [Getting Started](https://reactjs.org/docs/getting-started.html) page for a quick overview.
 
 The documentation is divided into several sections:
